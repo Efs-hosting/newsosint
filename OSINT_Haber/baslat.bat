@@ -8,7 +8,7 @@ echo =========================================
 echo.
 
 :: Python'un tam yolu tanimlaniyor
-set PYTHON_EXE="C:\Users\Eren Furkan\AppData\Local\Python\pythoncore-3.14-64\python.exe"
+set PYTHON_EXE=
 
 :: Gerekli kütüphanelerin kontrolü ve kurulumu
 echo [1/3] Python kutuphaneleri kontrol ediliyor...
